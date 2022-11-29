@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 2
   m_EditorClassIdentifier: 
   question: Mengapa dio itu ganteng?
+  answers:
+  - gak tau
+  - jangan tanya saya
+  - mungkin
+  - saya yg ganteng
+  correctAnswerIndex: 3

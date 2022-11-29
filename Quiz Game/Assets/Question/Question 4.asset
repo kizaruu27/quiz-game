@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 4
   m_EditorClassIdentifier: 
   question: Siapakah dalang di balik pembunuhan munir?
+  answers:
+  - entik
+  - rikman
+  - ady
+  - rio
+  correctAnswerIndex: 1

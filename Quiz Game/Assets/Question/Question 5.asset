@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7184818fe71c475499b2c44973171183, type: 3}
   m_Name: Question 5
   m_EditorClassIdentifier: 
-  question: Siapakah dalang di balik pembunuhan munir?
+  question: Siapa itu megawati?
+  answers:
+  - yaa ndak tau kok tanya saya
+  - kepala banteng
+  - koruptor
+  - penguasa negara
+  correctAnswerIndex: 3
